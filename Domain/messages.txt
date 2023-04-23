@@ -1,0 +1,16 @@
+1,1,2,Buna
+2,1,3,ce faci
+3,2,5,bine
+4,5,7,servus
+5,8,11,pa
+6,3,16,salut
+7,13,14,ola
+8,9,10,ciao
+9,5,10,cum esti?
+10,8,2,heeeei
+11,4,7,buna ziua
+12,11,5,cf
+13,15,3,azi
+14,1,2,maine
+15,2,3,ceaaau
+16,12,10,hello

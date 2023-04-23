@@ -1,0 +1,16 @@
+1,larisa,muresan,lari123,
+2,alexandra,stanciu,aleestanciu,20
+3,bogdan,zarnescu,bibinho,19
+4,andreea,pop,poooopandre,14
+5,lucian,surdu,luciansurdu,20
+6,miruna,moghiroiu,mirunaaaa23,22
+7,iasmina,biris,biris_iasmina,17
+8,flavia,maticu,flaviiii11,15
+9,raul,turc,turc_raul,19
+10,denis,ciceu,cici123,16
+11,tudor,giroiu,tudiii,20
+12,sorin,marin,soniiic,11
+13,dora,stan,dori55,9
+14,aura,dumitras,dumi_aura,22
+15,catalin,sorescu,cata25,25
+16,valentin,topan,topi_es,20
